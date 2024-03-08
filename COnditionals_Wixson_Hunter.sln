@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COnditionals_Wixson_Hunter", "COnditionals_Wixson_Hunter\COnditionals_Wixson_Hunter.csproj", "{0A754E94-6615-4648-9E1C-D9857278D906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A754E94-6615-4648-9E1C-D9857278D906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A754E94-6615-4648-9E1C-D9857278D906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A754E94-6615-4648-9E1C-D9857278D906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A754E94-6615-4648-9E1C-D9857278D906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6664B6-57E1-48AE-90E3-291C1ADC678C}
+	EndGlobalSection
+EndGlobal
